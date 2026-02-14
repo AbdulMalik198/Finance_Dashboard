@@ -7,8 +7,7 @@ This project demonstrates practical front-end development skills including DOM m
 ---
 
 ##  Live Demo
-(Add GitHub Pages link here)
-
+https://github.com/AbdulMalik198/Finance_Dashboard
 ---
 
 ##  Features
