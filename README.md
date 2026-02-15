@@ -25,7 +25,7 @@ https://statuesque-starlight-f1110a.netlify.app/
 
 ## Screenshot
 
-
+![image alt](https://github.com/AbdulMalik198/Finance_Dashboard/blob/30d00637b0b719c2c178a68080a365902760d172/finance_Screenshot0.png)
 
 --
 
