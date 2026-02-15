@@ -1,4 +1,4 @@
-# 💰 Personal Finance Dashboard
+#  Personal Finance Dashboard
 
 A responsive web application that helps users track income and expenses, visualise spending habits, and monitor financial balance in real time.
 
