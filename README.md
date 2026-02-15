@@ -23,6 +23,12 @@ https://statuesque-starlight-f1110a.netlify.app/
 
 ---
 
+## Screenshot
+
+
+
+--
+
 ##  Tech Stack
 
 - HTML5  
@@ -32,11 +38,5 @@ https://statuesque-starlight-f1110a.netlify.app/
 
 ---
 
-## 📂 Project Structure
-personal-finance-dashboard/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+
 
