@@ -7,8 +7,8 @@ This project demonstrates practical front-end development skills including DOM m
 ---
 
 ##  Live Demo
-https://statuesque-starlight-f1110a.netlify.app/
-
+[Finance Dashboard Demo Link
+](https://financedashboardabdulmalik.netlify.app)
 ---
 
 ##  Features
